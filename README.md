@@ -30,7 +30,8 @@ const aboutMe = {
   personalPhilosophy: "Code with passion, design with precision!",
   personalFact: "Always in search of the perfect balance between creativity and logic.",
 };
-
+```
+```javascript
 // The journey continues...
 while (true) {
   keepLearning();
