@@ -45,7 +45,7 @@ while (true) {
 ```
 
 ## Link 🔗
-[![Website](https://img.shields.io/badge/Lorenzoliva-Visit-blue?logo=google-chrome)](https://www.lorenzoliva.it) 
+[![Website](https://img.shields.io/badge/Lorenzoliva-Visit-blue?logo=google-chrome&logoColor=white)](https://www.lorenzoliva.it) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoliva/)
 
 ## Tech Stack 💻
