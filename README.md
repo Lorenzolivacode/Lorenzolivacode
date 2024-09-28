@@ -1,7 +1,10 @@
 # About me 🌌
+
 #### Professional
 Front-end developer with a solid background in HTML, CSS, and JavaScript, with a strong focus on pixel-perfect implementation—ensuring designs are translated into code exactly as envisioned. Art and design greatly influence my approach to web development. <br/>
-<🎨/> 
+
+### <🎨 /> 
+
 #### Personal
 I have a strong passion for art, sports, and logic. These three areas have shaped my approach to both life and work, helping me develop a balance between creativity, discipline, and critical thinking.
 
