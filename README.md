@@ -8,6 +8,38 @@ I have a strong passion for art, sports, and logic. These three areas have shape
 #### email:
 lorenzodev@lorenzoliva.it
 
+```javascript
+const aboutMe = {
+  name: "Lorenzo Oliva",
+  title: "Front-end Developer",
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "TailwindCSS",
+    "TypeScript",
+  ],
+  passion: ["Art", "Sports", "Logic"],
+  approachToWork: {
+    creativity: true,
+    discipline: true,
+    criticalThinking: true,
+  },
+  personalPhilosophy: "Code with passion, design with precision!",
+  personalFact: "Always in search of the perfect balance between creativity and logic.",
+};
+
+// The journey continues...
+while (true) {
+  keepLearning();
+  keepImproving();
+  enjoyTheProcess();
+}
+
+```
+
 ## Link 🔗
 [![Website](https://img.shields.io/badge/Lorenzoliva-Visit-blue?logo=google-chrome)](https://www.lorenzoliva.it) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoliva/)
