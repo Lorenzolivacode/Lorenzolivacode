@@ -15,15 +15,23 @@ lorenzodev@lorenzoliva.it
 const aboutMe = {
   name: "Lorenzo Oliva",
   title: "Front-end Developer",
-  skills: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Next.js",
-    "TailwindCSS",
-    "TypeScript",
-  ],
+  techSkills: {
+    frontend:[
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Next.js",
+      "TailwindCSS",
+      "TypeScript",
+    ]
+    backend: [
+      "Node.js",
+      "Prisma",
+      "GraphQL",
+      "Pothos",
+    ]
+  },
   passion: ["Art", "Sports", "Logic"],
   approachToWork: {
     creativity: true,
